@@ -47,6 +47,6 @@ TYPES
     
 3. Control instructions
 
->Control instructions are used to control the flow of execution in a program.
+>Control instructions are used to control the flow of execution in a program. fuck
 
 */
